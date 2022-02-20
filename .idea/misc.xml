@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/4 - dars/Messanger kotlin/app/src/main/res/drawable-v24/rounded_people.xml" value="0.2" />
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/4 - dars/Messanger kotlin/app/src/main/res/drawable-v24/rounded_profile.xml" value="0.16666666666666666" />
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/4 - dars/Messanger kotlin/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1111111111111111" />
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/4 - dars/Messanger kotlin/app/src/main/res/drawable/ic_baseline_video_call_24.xml" value="0.1111111111111111" />
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/4 - dars/Messanger kotlin/app/src/main/res/drawable/ic_contact_svgrepo_com.xml" value="0.2" />
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/4 - dars/Messanger kotlin/app/src/main/res/drawable/ic_pen_square_solid_svgrepo_com.xml" value="0.24814814814814815" />
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/4 - dars/Messanger kotlin/app/src/main/res/drawable/ic_plus_svgrepo_com.xml" value="0.28615384615384615" />
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/4 - dars/Messanger kotlin/app/src/main/res/drawable/ic_video_camera_svgrepo_com.xml" value="0.16944444444444445" />
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/4 - dars/Messanger kotlin/app/src/main/res/drawable/rounded_active.xml" value="0.2" />
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/4 - dars/Messanger kotlin/app/src/main/res/drawable/rounded_search.xml" value="0.24814814814814815" />
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/4 - dars/Messanger kotlin/app/src/main/res/drawable/rounded_stories.xml" value="0.2" />
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/4 - dars/Messanger kotlin/app/src/main/res/drawable/shape_circle_green.xml" value="0.2490740740740741" />
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/4 - dars/Messanger kotlin/app/src/main/res/layout/activity_main.xml" value="0.13171225937183384" />
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/4 - dars/Messanger kotlin/app/src/main/res/layout/fragment_chats.xml" value="0.2" />
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/4 - dars/Messanger kotlin/app/src/main/res/layout/fragment_people.xml" value="0.2" />
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/4 - dars/Messanger kotlin/app/src/main/res/layout/item_chat_room.xml" value="0.13171225937183384" />
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/4 - dars/Messanger kotlin/app/src/main/res/layout/item_chat_view.xml" value="0.264" />
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/4 - dars/Messanger kotlin/app/src/main/res/layout/item_people_stories_view.xml" value="0.176" />
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/4 - dars/Messanger kotlin/app/src/main/res/layout/item_room_view.xml" value="0.13171225937183384" />
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/4 - dars/Messanger kotlin/app/src/main/res/layout/item_room_view_empty.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
